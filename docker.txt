@@ -1,5 +1,5 @@
 2022-09-28 10:33:12.290 ERROR 1 --- [   scheduling-1] c.b.c.s.c.ServiceDescriptionUpdater      : Skipping service id : chops-chartering-service Error : Could not get Swagegr definition from API
-2022-09-28 10:33:13.823 DEBUG 1 --- [freshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition chops-oauth-service applying {_genkey_0=/auth-api/**} to Path
+2022-09-28 10:33:13.823 DEBUG 1 --- [freshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition chops-oauth-service applying {_genkey_0=/auth-api/**} to Pathxcxs vcd vd
 2022-09-28 10:33:13.824 DEBUG 1 --- [freshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: chops-oauth-service
 2022-09-28 10:33:13.824 DEBUG 1 --- [freshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition chops-support-util-service applying {_genkey_0=/support_util/**} to Path
 2022-09-28 10:33:13.824 DEBUG 1 --- [freshExecutor-0] o.s.c.g.r.RouteDefinitionRouteLocator    : RouteDefinition matched: chops-support-util-service
